@@ -17,10 +17,6 @@ class Application(tk.Frame):
     def create_widgets(self):
         
 
-        #self.logo_imagem = PhotoImage(file="FIAPON.png")
-        #label_logo_imagem = tk.Label(self, image=self.logo_imagem, bg="#000000")
-        #label_logo_imagem.pack(side="top", pady=10)
-
         self.path_label = tk.Label(self, text="Coloque o caminho da pasta:", bg="#ed145d", width=50, height=1, borderwidth=10, relief='flat')
         self.path_label.pack(side="top")
 
