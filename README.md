@@ -11,8 +11,8 @@ Este projeto foi criado com o objetivo de calcular o tempo estimado de leitura p
 
 ## Como usar
 
-1 - Clone este repositório em sua máquina local.
-2 - Certifique-se de ter as dependências necessárias instaladas (inclusas no arquivo requirements.txt).
-3 - Execute a aplicação usando o comando python tempo_e_leitura.py.
-4 - Na interface gráfica, insira o caminho do diretório que contém os arquivos .docx que você deseja analisar.
-6 - Clique no botão "Calcular Tempo de Leitura" para obter os resultados.
+- Clone este repositório em sua máquina local.
+- Certifique-se de ter as dependências necessárias instaladas (inclusas no arquivo requirements.txt).
+- Execute a aplicação usando o comando python tempo_e_leitura.py.
+- Na interface gráfica, insira o caminho do diretório que contém os arquivos .docx que você deseja analisar.
+- Clique no botão "Calcular Tempo de Leitura" para obter os resultados.
