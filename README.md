@@ -1,4 +1,6 @@
 # 🌐 Tempo e leitura
+### OBS: Essa é 1º Versão do projeto
+
 
 ## Sobre o projeto
 Este projeto foi criado com o objetivo de calcular o tempo estimado de leitura para diversos arquivos no formato .docx presentes em um diretório específico. Ele oferece uma interface gráfica intuitiva que permite aos usuários selecionar um diretório de sua escolha e realizar o cálculo com base em uma métrica amplamente aceita de velocidade de leitura humana, que considera que uma pessoa é capaz de ler entre 130 e 200 caracteres por minuto.
